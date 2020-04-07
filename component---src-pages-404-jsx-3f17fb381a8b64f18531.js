@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{pssB:function(n,e,o){"use strict";o.r(e);var t=o("q1tI"),s=o.n(t);e.default=function(){return s.a.createElement("div",null,"Coming soon")}}}]);
